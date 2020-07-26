@@ -16,6 +16,6 @@ In this Code, I write about:
 #### Thank you
 
 <h3 align="center">
-<img width=40% height=70%  src="PhotosApi.gif" alt="Screen record of PhotosApi for iOS"/>
+<img width=40% height=70%  src="image.png" alt="ScreenShot"/>
 </h3>
 
